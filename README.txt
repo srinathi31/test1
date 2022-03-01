@@ -3,4 +3,5 @@
 void main()
 {
 printf("Hello cse");
+printf("cse");
 }
